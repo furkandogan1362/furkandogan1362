@@ -46,4 +46,16 @@ Web teknolojilerini öğreniyorum ve aşağıdaki teknolojilerde ilerleme kayded
   <a href="https://nodejs.org/" target="_blank" rel="noreferrer"> 
     <img src="https://nodejs.org/static/images/logo.svg" alt="Node.js" width="40" height="40"/>
   </a> 
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="40" height="40"/> 
+  </a>
+  <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" alt="Jupyter" width="40" height="40"/> 
+  </a>
+  <a href="https://colab.research.google.com/" target="_blank" rel="noreferrer">
+    <img src="https://colab.research.google.com/img/colab_favicon_256px.png" alt="Google Colab" width="40" height="40"/> 
+  </a>
+
+
+
 </p>
