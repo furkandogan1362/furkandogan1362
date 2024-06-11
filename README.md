@@ -1,4 +1,4 @@
-# Merhaba, Ben [Furkan Doğan]
+# Merhaba 👋, Ben [Furkan Doğan]
 
 
 ## Hakkımda
@@ -12,4 +12,4 @@ Web teknolojilerini öğreniyorum ve aşağıdaki teknolojilerde ilerleme kayded
 
 ## İletişim
 
-- [LinkedIn](https://www.linkedin.com/in/furkandogan1362/)
+- [![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg)](https://www.linkedin.com/in/furkandogan1362/)
