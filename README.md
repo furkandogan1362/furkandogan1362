@@ -12,4 +12,4 @@ Web teknolojilerini öğreniyorum ve aşağıdaki teknolojilerde ilerleme kayded
 
 ## İletişim
 
-- [![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg)](https://www.linkedin.com/in/furkandogan1362/)
+- [<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="20" height="20"/> LinkedIn](https://www.linkedin.com/in/furkandogan1362/)
