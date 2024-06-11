@@ -40,4 +40,7 @@ Web teknolojilerini öğreniyorum ve aşağıdaki teknolojilerde ilerleme kayded
   <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/200px-React-icon.svg.png" alt="React" width="40" height="40"/>
   </a> 
+  <a href="https://nodejs.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://nodejs.org/static/images/logo.svg" alt="Node.js" width="40" height="40"/>
+  </a> 
 </p>
