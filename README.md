@@ -19,7 +19,6 @@ Web teknolojilerini öğreniyorum ve aşağıdaki teknolojilerde ilerleme kayded
 
 <h3 align="left">Benimle iletişime geçin:</h3>
 <p align="left">
-<a href="https://x.com/banafurkidee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hasangonen91" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/furkandogan1362/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/furkandogan1362/" height="30" width="40" /></a>
 </p>
 
