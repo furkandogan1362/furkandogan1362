@@ -1,5 +1,5 @@
 <h1 align="center">Merhaba 👋, Ben Furkan Doğan</h1>
-<h3 align="center">Başlangıç seviye Web geliştiricisiyim</h3>
+<h3 align="center">Web geliştiricisiyim</h3>
 <h3 align="center">Öğrenmeye aç ve yenilik için arayıştayım</h3>
 
 
